@@ -77,7 +77,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-900 mt-8 pt-8 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} {siteConfig.brandName}. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} SnowOwl Investments LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>

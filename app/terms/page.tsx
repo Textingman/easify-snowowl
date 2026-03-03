@@ -182,7 +182,7 @@ export default function Terms() {
                 If you have questions about these Terms and Conditions, please contact us:
               </p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="text-gray-700"><strong>{siteConfig.brandName}</strong></p>
+                <p className="text-gray-700"><strong>SnowOwl Investments LLC</strong></p>
                 <p className="text-gray-700">{siteConfig.address}</p>
                 <p className="text-gray-700">Email: <a href={`mailto:${siteConfig.supportEmail}`} className="text-black hover:text-gray-700">{siteConfig.supportEmail}</a></p>
                 <p className="text-gray-700">Phone: <a href={`tel:${siteConfig.supportPhone}`} className="text-black hover:text-gray-700">{siteConfig.supportPhone}</a></p>
