@@ -73,12 +73,10 @@ export default function Terms() {
                 <ul className="list-disc list-inside space-y-2 text-gray-700 ml-4">
                   <li><strong>Program Name:</strong> {siteConfig.brandName} {siteConfig.smsUseCase}</li>
                   <li><strong>Use Case:</strong> {siteConfig.smsUseCase}</li>
-                  <li><strong>Message Types:</strong> You will receive text messages related to {siteConfig.smsUseCase.toLowerCase()}, including:
+                  <li><strong>Message Types:</strong> You will receive customer care text messages, including:
                     <ul className="list-circle list-inside ml-6 mt-2 space-y-1">
-                      <li>Appointment reminders and confirmations</li>
-                      <li>Account notifications and updates</li>
-                      <li>Important service announcements</li>
                       <li>Customer support communications</li>
+                      <li>Appointment reminders from your representative</li>
                     </ul>
                   </li>
                   <li><strong>Message Frequency:</strong> Message frequency varies based on your account activity and preferences. You may receive up to 10 messages per month.</li>
