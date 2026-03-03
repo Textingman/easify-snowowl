@@ -4,8 +4,8 @@ export const siteConfig = {
   brandName: "SnowOwl Investments",
   
   // Contact Information
-  address: "30 N GOULD ST STE R, Sheridan, Wyoming, 82801, United States of America",
-  supportEmail: "support@examplebrand.com",
+  address: "30 N Gould St STE R, Sheridan, WY 82801",
+  supportEmail: "support@snowowlinvest.com",
   supportPhone: "+1 347 986 7628",
   
   // 10DLC SMS Configuration
