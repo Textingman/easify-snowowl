@@ -1,7 +1,7 @@
 // Site configuration - Update these variables for your investment advisory firm
 export const siteConfig = {
   // Brand Information
-  brandName: "Example Brand",
+  brandName: "SnowOwl Investments",
   
   // Contact Information
   address: "123 Main Street, Suite 100, City, State 12345",
